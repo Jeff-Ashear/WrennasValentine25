@@ -3,7 +3,7 @@ const data = {
 
     1: [ "It's that time of year, ", "for their daughters so dear", "so wise, and so kind.", "with all of his mind.", "or dancing so classy,", "even when it gets gassy...", "or low on the beach,", "always in reach.", "or far, far away.", "Day after day.", "or when you're quite near,", "year after year", "and always around,", "and small sleepy towns.", "and when we're apart,", "with all of my heart."],
 
-    2: ["./src/assets/images/one.jpg", "./src/assets/images/two.jpg", "./src/assets/images/three.jpg"]
+    2: ["./src/assets/images/one.jpg", "./src/assets/images/two.jpg", "./src/assets/images/three.jpg", "./src/assets/images/four.jpg", "./src/assets/images/five.jpg", "./src/assets/images/six.jpg", "./src/assets/images/seven.jpg", "./src/assets/images/eight.jpg", "./src/assets/images/nine.jpg", "./src/assets/images/ten.jpg", "./src/assets/images/eleven.jpg", "./src/assets/images/twelve.jpg", "./src/assets/images/thirteen.jpg", "./src/assets/images/fourteen.jpg",]
 }
 
 export default data
