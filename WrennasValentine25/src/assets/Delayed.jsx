@@ -18,7 +18,7 @@ class Delayed extends React.Component {
     }
 }
 
-Delayed.PropTypes = {
+Delayed.propTypes = {
   waitBeforeShow: PropTypes.number.isRequired
 }
 

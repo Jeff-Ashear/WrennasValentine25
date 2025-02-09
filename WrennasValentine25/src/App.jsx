@@ -5,10 +5,15 @@ import data from './assets/data'
 import './App.css'
 
 
+// function counter(count) {
+//   setCount=(count + 1)
+//   console.log(count)
+// }
+
+
 function App() {
   const [count, setCount] = useState(0)
-  
-  console.log(data[2][count])
+
 
   return (
     <>
@@ -30,6 +35,9 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           Continue
         </button>
+        {/* <button onClick={counter(count, setCount)}>
+          next
+        </button> */}
       </div>
     </>
   )
